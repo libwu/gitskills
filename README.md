@@ -1,2 +1,2 @@
 # gitskills
-add merge
+add mergeadd/user/bin/dev

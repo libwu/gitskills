@@ -1,2 +1,2 @@
 # gitskills
-add merge
+Add merge!
